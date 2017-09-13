@@ -1,0 +1,5 @@
+# EdgeEffectOverride
+实现Andriod主要下拉组件的下拉到底部和上拉完成的阴影效果
+这是一个eclipse的项目，改造来自Android Studio项目
+# 效果图：请参考项目中的screenshot目录下的截图
+
